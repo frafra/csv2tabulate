@@ -1,3 +1,15 @@
+.. image:: https://img.shields.io/pypi/pyversions/csv2tabulate
+        :alt: PyPI - Python Version
+        :target: https://pypi.org/project/csv2tabulate/
+
+.. image:: https://img.shields.io/travis/frafra/csv2tabulate
+        :alt: Travis (.org)
+        :target: https://travis-ci.com/frafra/csv2tabulate/
+
+.. image:: https://img.shields.io/codecov/c/github/frafra/csv2tabulate
+        :alt: Codecov
+        :target: https://codecov.io/gh/frafra/csv2tabulate
+
 How to install
 ==============
 
