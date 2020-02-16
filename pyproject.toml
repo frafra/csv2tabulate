@@ -11,7 +11,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6"
 tabulate = "^0.8.6"
 
 [tool.poetry.dev-dependencies]
@@ -25,7 +25,7 @@ csv2tabulate = 'csv2tabulate.cli:main'
 
 [tool.black]
 line-length = 79
-target-version = ['py37']
+target-version = ['py36']
 
 [tool.isort]
 line-length = 79
