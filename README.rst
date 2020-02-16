@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/pypi/v/csv2tabulate
+        :alt: PyPI
+        :target: https://pypi.org/project/csv2tabulate/
+
 .. image:: https://img.shields.io/pypi/pyversions/csv2tabulate
         :alt: PyPI - Python Version
         :target: https://pypi.org/project/csv2tabulate/
