@@ -1,7 +1,7 @@
 import argparse
 import fileinput
 
-from csv2tabulate import convert
+from csv2tabulate.converter import convert
 from tabulate import _table_formats
 
 

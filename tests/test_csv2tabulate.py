@@ -1,6 +1,6 @@
 import io
 
-from csv2tabulate import convert
+from csv2tabulate.converter import convert
 
 
 def test_convert():
