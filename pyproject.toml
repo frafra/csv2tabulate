@@ -18,7 +18,7 @@ tabulate = "^0.8.6"
 pytest = "^5.4"
 pre-commit = "^2.1.1"
 tox = "^3.14.4"
-pytest-cov = "^2.9.0"
+pytest-cov = "^2.10.1"
 
 [tool.poetry.scripts]
 csv2tabulate = 'csv2tabulate.cli:main'
